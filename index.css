@@ -1,0 +1,8 @@
+.big-container{
+    display: flex;
+
+}   
+
+.container {
+    gap: 300px;
+}
